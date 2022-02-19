@@ -1,0 +1,17 @@
+.banner{
+  color: whitesmoke;
+  padding: 50px 0px;
+  background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../../images/background.jpeg);
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 150px;
+}
+.banner h1{
+  font-size: 40px;
+}
+.banner h2{
+  font-weight: lighter;
+  font-size: 25px;
+  opacity: 0.8;
+  margin-bottom: 80px;
+}
