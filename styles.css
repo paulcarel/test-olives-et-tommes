@@ -4,11 +4,13 @@
 @import url("components/btn-olive.css");
 @import url("components/banner.css");
 @import url("components/card.css");
+
 body{
   font-family: 'Raleway', sans-serif;
   font-size: 17px;
   background-color: rgb(220 204 153);
   text-align: center;
+
 }
 h1,h2{
   font-family: 'Gideon Roman', cursive;
